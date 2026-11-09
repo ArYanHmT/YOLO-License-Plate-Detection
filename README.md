@@ -65,3 +65,9 @@ Pre-trained YOLOv8 license plate detection model:
 https://huggingface.co/Koushim/yolov8-license-plate-detection
 
 The original model is credited to its author.
+
+## Detection Results
+
+Example of license plate detection using YOLOv8.
+
+![License Plate Detection](images/detection-example.jpg)
